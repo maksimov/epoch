@@ -33,6 +33,7 @@ func main() {
 		fmt.Println(err)
 		os.Exit(-1)
 	}
+	fmt.Println()
 	fmt.Println("Milliseconds: ", t.Unix()*1000)
 	fmt.Println("         GMT: ", t.UTC())
 	fmt.Println("       Local: ", t)
