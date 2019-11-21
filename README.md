@@ -5,7 +5,7 @@ A tiniest CLI tool to convert timestamps in seconds or milliseconds or datetime 
 
 Having to deal with timestamps a lot at work I occasionally need to quickly translate timestamps to dates and vice versa. I thought it will be handy to have it as a command line utility instead of having to go to a relevant website (e.g. epochconverter.com), especially when network connection is not available.
 
-The datetime format parsing powered by the brilliant [dateparse](github.com/araddon/dateparse) library.
+The datetime format parsing powered by the brilliant [dateparse](https://github.com/araddon/dateparse) library.
 
 Usage
 -----
